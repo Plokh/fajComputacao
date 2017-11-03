@@ -1,5 +1,13 @@
-﻿# fajComputacao
+﻿﻿﻿# fajComputacao
 Repositório para aulas na UniFAJ
-David Martins - Quero ir pra casa!!
+
+Anthony Marques Gianeli
+Roberto
 Rodrigo Rovaron
-Sexta-feira feliz!! :)
+Lucas Góis
+Bruno
+Rafael Ferretti
+Raiane Arthur
+Mauricio BBorges
+Ana Danieleeee
+David Martins

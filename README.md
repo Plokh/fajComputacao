@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-=======
-﻿
->>>>>>> 4b4a1d5d4bdeadecc65af92e550d240221fcc689
-﻿# fajComputacao
+﻿﻿# fajComputacao
 Repositório para aulas na UniFAJ
 
-
 Anthony Marques Gianeli
+Roberto
 Rodrigo Rovaron
-<<<<<<< HEAD
 Lucas Góis
+Bruno
+Rafael Ferretti
+Raiane Arthur
 
-Sexta cansativa
-=======
-
-<<<<<<< HEAD
-Sexta-feira feliz!! :)
-
-=======
->>>>>>> 4b4a1d5d4bdeadecc65af92e550d240221fcc689

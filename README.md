@@ -1,8 +1,5 @@
-﻿# fajComputacao
+﻿﻿# fajComputacao
 Repositório para aulas na UniFAJ
-
-Rodrigo Rovaron
+# fajComputacao
 
 Sexta-feira feliz!!!! :)
-
-

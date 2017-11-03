@@ -13,3 +13,4 @@ Ana Daniele
 David Martins
 Rafael Rovaron
 Mauricio 
+Paulo Henrique Marchi

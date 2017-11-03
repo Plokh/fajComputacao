@@ -1,5 +1,14 @@
-﻿﻿# fajComputacao
+﻿﻿﻿﻿# fajComputacao
 Repositório para aulas na UniFAJ
-# fajComputacao
 
-Sexta-feira feliz!!!! :)
+Anthony Marques Gianeli
+Roberto
+Rodrigo Rovaron
+Lucas Góis
+Bruno
+Rafael Ferretti
+Raiane Arthur
+Mauricio BBorges
+Ana Danieleeee
+David Martins
+Rafael Rovaron

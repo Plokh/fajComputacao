@@ -3,5 +3,8 @@ Repositório para aulas na UniFAJ
 
 Rafael Ferretti Moreira
 
-sexta-cheira dia de fica bronson :))
+sexta-feira dia de fica bronson :))
 
+Rodrigo Rovaron
+
+Sexta-feira feliz!! :)

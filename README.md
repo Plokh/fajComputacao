@@ -1,11 +1,9 @@
 ﻿# fajComputacao
 Repositório para aulas na UniFAJ
 
-
-Raiane e Arthur
-
-Quero açai! <3
-
+Anthony Marques Gianeli
+Roberto
 Rodrigo Rovaron
-
-Sexta-feira feliz!! :)
+Bruno
+Rafael Ferretti
+Raiane Arthur

@@ -1,4 +1,7 @@
 # fajComputacao
-Repositório para aulas na UniFAJ
+Repositório para aulas na UniFAJs 
 Mauricio
 Rodrigo Rovaron
+Rodrigo Rovaron
+
+Sexta-feira feliz!! :)
